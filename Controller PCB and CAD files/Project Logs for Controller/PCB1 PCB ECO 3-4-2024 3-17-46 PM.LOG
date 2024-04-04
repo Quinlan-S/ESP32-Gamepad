@@ -1,0 +1,27 @@
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-3
+Added Pin To Net: NetName=NetSW1_3 Pin=SW1-4
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=NetSW2_3 Pin=SW2-3
+Added Pin To Net: NetName=NetSW2_3 Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=NetSW3_3 Pin=SW3-3
+Added Pin To Net: NetName=NetSW3_3 Pin=SW3-4
+Added Pin To Net: NetName=GND Pin=SW4-1
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=NetSW4_3 Pin=SW4-3
+Added Pin To Net: NetName=NetSW4_3 Pin=SW4-4
+Added Pin To Net: NetName=NetSW5_3 Pin=SW6-3
+Added Pin To Net: NetName=NetSW5_3 Pin=SW6-4
+Added Pin To Net: NetName=NetSW5_3 Pin=SW7-3
+Added Pin To Net: NetName=NetSW5_3 Pin=SW7-4
+Added Pin To Net: NetName=NetSW5_3 Pin=SW8-3
+Added Pin To Net: NetName=NetSW5_3 Pin=SW8-4
+Added Pin To Net: NetName=NetSW4_3 Pin=U1-3
+Added Member To Class: ClassName=controller Member=Component SW1 B3F-4000
+Added Member To Class: ClassName=controller Member=Component SW2 B3F-4000
+Added Member To Class: ClassName=controller Member=Component SW3 B3F-4000
+Added Member To Class: ClassName=controller Member=Component SW4 B3F-4000

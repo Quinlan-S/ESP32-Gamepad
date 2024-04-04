@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=R2-7
+Removed Pin From Net: NetName=GND Pin=R3-7
+Added Component: Designator=R1(FP-RKJXK122400Y-MFG)
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "20.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "16mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "100Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-10°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "12.5mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RKJXV/ RKJXK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Potentiometer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "16mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-3
+Added Pin To Net: NetName=GND Pin=R2-6
+Added Member To Class: ClassName=controller Member=Component R1 RKJXK122400Y

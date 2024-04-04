@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=S3-2
+Removed Pin From Net: NetName=NetC6_2 Pin=S4-2
+Change Component Comment : Designator=S2 Old Comment=TL1100CF160Q New Comment=TL1100CF (LB)
+Change Component Comment : Designator=S1 Old Comment=TL1100CF160Q New Comment=TL1100CF(LT)
+Change Component Comment : Designator=S3 Old Comment=TL1100CF160Q New Comment=TL1100CF(RB)
+Change Component Comment : Designator=S4 Old Comment=TL1100CF160Q New Comment=TL1100CF(RT)
+Added Component: Designator=U?(XDCR_COM-09032)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "COM-09032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetESP32_28 Pin=S1-1
+Added Pin To Net: NetName=NetESP32_27 Pin=S2-1
+Added Pin To Net: NetName=NetESP32_22 Pin=S3-1
+Added Pin To Net: NetName=NetC6_2 Pin=S3-2
+Added Pin To Net: NetName=NetESP32_21 Pin=S4-1
+Added Pin To Net: NetName=NetC5_2 Pin=S4-2
+Added Pin To Net: NetName=NetESP32_5 Pin=SW1-3
+Added Pin To Net: NetName=NetESP32_5 Pin=SW1-4
+Added Pin To Net: NetName=NetESP32_3 Pin=SW4-3
+Added Pin To Net: NetName=NetESP32_3 Pin=SW4-4
+Added Pin To Net: NetName=NetESP32_11 Pin=SW5-3
+Added Pin To Net: NetName=NetESP32_11 Pin=SW5-4
+Added Pin To Net: NetName=NetESP32_14 Pin=SW6-3
+Added Pin To Net: NetName=NetESP32_14 Pin=SW6-4
+Added Pin To Net: NetName=NetESP32_10 Pin=SW7-3
+Added Pin To Net: NetName=NetESP32_10 Pin=SW7-4
+Added Pin To Net: NetName=NetESP32_15 Pin=SW8-3
+Added Pin To Net: NetName=NetESP32_15 Pin=SW8-4
+Added Pin To Net: NetName=3V Pin=U?-B1A
+Added Pin To Net: NetName=GND Pin=U?-B2A
+Added Pin To Net: NetName=NetESP32_6 Pin=ESP32-6
+Added Pin To Net: NetName=NetESP32_6 Pin=SW3-3
+Added Pin To Net: NetName=NetESP32_6 Pin=SW3-4
+Added Net: Name=NetESP32_6
+Added Pin To Net: NetName=NetESP32_7 Pin=ESP32-7
+Added Pin To Net: NetName=NetESP32_7 Pin=SW2-3
+Added Pin To Net: NetName=NetESP32_7 Pin=SW2-4
+Added Net: Name=NetESP32_7
+Added Member To Class: ClassName=controller Member=Component U? COM-09032

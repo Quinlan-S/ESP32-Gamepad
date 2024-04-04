@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=PCAP? NewDesignator=PCAP1
+Added Pin To Net: NetName=GND Pin=SW-1
+Added Pin To Net: NetName=NetPOWERBOOST 1000C_4 Pin=POWERBOOST 1000C-4
+Added Pin To Net: NetName=NetPOWERBOOST 1000C_4 Pin=SW-2
+Added Net: Name=NetPOWERBOOST 1000C_4
+Added Rule: Name=Schematic Width Constraint

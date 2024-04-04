@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=NetESP32_8 Pin=LEFT ANALOG-B1A
+Added Pin To Net: NetName=NetESP32_9 Pin=RIGHT ANALOG-B1A
+Added Pin To Net: NetName=NetESP32_20 Pin=RIGHT ANALOG-H2
+Added Pin To Net: NetName=NetESP32_19 Pin=RIGHT ANALOG-V2
+Added Pin To Net: NetName=NetESP32_17 Pin=ESP32-17
+Added Pin To Net: NetName=NetESP32_17 Pin=LEFT ANALOG-V2
+Added Net: Name=NetESP32_17
+Added Pin To Net: NetName=NetESP32_18 Pin=ESP32-18
+Added Pin To Net: NetName=NetESP32_18 Pin=LEFT ANALOG-H2
+Added Net: Name=NetESP32_18

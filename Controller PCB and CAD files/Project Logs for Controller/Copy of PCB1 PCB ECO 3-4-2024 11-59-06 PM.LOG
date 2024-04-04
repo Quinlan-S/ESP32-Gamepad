@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=controller Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=S2-2
+Added Pin To Net: NetName=NetC6_2 Pin=S4-2
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=controller Member=Component C6 1uF

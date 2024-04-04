@@ -1,0 +1,4 @@
+Added Component: Designator=R3(JoyStick SF)
+Added Pin To Net: NetName=GND Pin=R3-7
+Added Pin To Net: NetName=5V Pin=R3-8
+Added Member To Class: ClassName=controller Member=Component R3 Joy Stick PB

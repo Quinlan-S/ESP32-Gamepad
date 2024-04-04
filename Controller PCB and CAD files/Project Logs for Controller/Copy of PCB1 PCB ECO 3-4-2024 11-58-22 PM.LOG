@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=NetSW4_3 Pin=U1-3
+Change Component Designator: OldDesignator=U1 NewDesignator=ESP32
+Added Component: Designator=C?(KEMT-C315-THT-2)
+Add component (AddParameter): Name = "Bandwidth"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "65 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C315C100J2G5TA.pdf?pn=C315C100J2G5TA{BULK}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dual Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Dual Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Gain Bandwith Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.2 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Voltage Gain"; Value = "100 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 3.81 x 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C315-THT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "0.3 V\us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Added Component: Designator=C?(KEMT-C315-THT-2)
+Add component (AddParameter): Name = "Bandwidth"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "65 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C315C100J2G5TA.pdf?pn=C315C100J2G5TA{BULK}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dual Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Dual Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Gain Bandwith Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.2 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Voltage Gain"; Value = "100 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 3.81 x 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C315-THT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "0.3 V\us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Added Component: Designator=POWERBOOST 1000C(MODULE_2465)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2465/Adafruit+Industries+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2465/Adafruit+Industries+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MODULE_2465)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2465/Adafruit+Industries+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Adafruit Industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2465/Adafruit+Industries+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V Pin=C?-1
+Added Pin To Net: NetName=3V Pin=C?-1
+Change Net Name : Old Net Name=NetU1_4 New Net Name=NetESP32_4
+Change Net Name : Old Net Name=NetU1_5 New Net Name=NetESP32_5
+Change Net Name : Old Net Name=NetU1_8 New Net Name=NetESP32_8
+Change Net Name : Old Net Name=NetU1_9 New Net Name=NetESP32_9
+Change Net Name : Old Net Name=NetU1_10 New Net Name=NetESP32_10
+Change Net Name : Old Net Name=NetU1_11 New Net Name=NetESP32_11
+Change Net Name : Old Net Name=NetU1_14 New Net Name=NetESP32_14
+Change Net Name : Old Net Name=NetU1_15 New Net Name=NetESP32_15
+Change Net Name : Old Net Name=NetU1_19 New Net Name=NetESP32_19
+Change Net Name : Old Net Name=NetU1_20 New Net Name=NetESP32_20
+Change Net Name : Old Net Name=NetU1_21 New Net Name=NetESP32_21
+Change Net Name : Old Net Name=NetU1_22 New Net Name=NetESP32_22
+Change Net Name : Old Net Name=NetU1_23 New Net Name=NetESP32_23
+Change Net Name : Old Net Name=NetU1_24 New Net Name=NetESP32_24
+Change Net Name : Old Net Name=NetU1_25 New Net Name=NetESP32_25
+Change Net Name : Old Net Name=NetU1_26 New Net Name=NetESP32_26
+Change Net Name : Old Net Name=NetU1_27 New Net Name=NetESP32_27
+Change Net Name : Old Net Name=NetU1_28 New Net Name=NetESP32_28
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=S1-2
+Added Pin To Net: NetName=NetC?_2 Pin=S3-2
+Added Net: Name=NetC?_2
+Add Net: Net with name "NetC?_2" already exists
+Added Pin To Net: NetName=NetESP32_3 Pin=ESP32-3
+Added Net: Name=NetESP32_3
+Added Member To Class: ClassName=controller Member=Component C? 1uF
+Added Member To Class: ClassName=controller Member=Component C? 1uF
+Added Member To Class: ClassName=controller Member=Component POWERBOOST 1000C 2465
+Added Member To Class: ClassName=controller Member=Component U? 2465

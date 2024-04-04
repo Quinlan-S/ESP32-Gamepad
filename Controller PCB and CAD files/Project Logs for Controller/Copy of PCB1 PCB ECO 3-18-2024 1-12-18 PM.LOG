@@ -1,0 +1,8 @@
+Added Component: Designator=H1(Hole 3mm)
+Added Component: Designator=H2(Hole 3mm)
+Added Component: Designator=H3(Hole 3mm)
+Added Component: Designator=H4(Hole 3mm)
+Added Member To Class: ClassName=controller Member=Component H1 Hole 3mm
+Added Member To Class: ClassName=controller Member=Component H2 Hole 3mm
+Added Member To Class: ClassName=controller Member=Component H3 Hole 3mm
+Added Member To Class: ClassName=controller Member=Component H4 Hole 3mm

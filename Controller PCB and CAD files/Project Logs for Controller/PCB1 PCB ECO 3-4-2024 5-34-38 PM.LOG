@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW9
+Added Member To Class: ClassName=controller Member=Component C1 1uF

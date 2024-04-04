@@ -1,0 +1,10 @@
+Added Component: Designator=PCAP?(P Cap - Small)
+Added Component: Designator=PCAP(P Cap - Small)
+Added Pin To Net: NetName=5V Pin=PCAP-1
+Added Pin To Net: NetName=GND Pin=PCAP-2
+Added Pin To Net: NetName=3V Pin=PCAP?-1
+Added Pin To Net: NetName=GND Pin=PCAP?-2
+Added Member To Class: ClassName=controller Member=Component PCAP? > 40uF
+Added Member To Class: ClassName=controller Member=Component PCAP  > 40uF
+Added Member To Class: ClassName=controller Member=Component SW10 B3F-1000
+Added Member To Class: ClassName=controller Member=Component SW11 B3F-4000

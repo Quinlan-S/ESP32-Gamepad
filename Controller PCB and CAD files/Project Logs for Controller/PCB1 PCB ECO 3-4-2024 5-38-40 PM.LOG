@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=3V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=controller Member=Component C2 1uF
+Added Member To Class: ClassName=controller Member=Component C3 1uF
+Added Member To Class: ClassName=controller Member=Component C4 1uF

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Controller.PrjPcb]
+   Generated File[Copy of PCB1.TXT]
+   Generated File[Copy of PCB1.LDP]
+   Generated File[Copy of PCB1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:02:58 AM On 3/20/2024
